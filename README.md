@@ -12,3 +12,4 @@ A website that offers a timed schedule to add text according to current hour. th
 https://itzamary.github.io/Work-Day-Scheduler/
 
 ## website image
+![](./assets/images/Work-Day-Scheduler.png)
