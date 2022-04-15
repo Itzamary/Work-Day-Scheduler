@@ -69,3 +69,22 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+@media screen and (max-width:770px ) {
+  .row {
+    display: block;
+    padding: 20px auto;
+    height: 100%;
+    margin: 5px auto;
+    white-space: break-spaces;
+  }
+
+  .hour {
+    border-radius: 15px;
+    text-align: center;
+  }
+
+  .saveBtn{
+    border-radius: 15px;
+  }
+}
