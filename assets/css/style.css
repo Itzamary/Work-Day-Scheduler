@@ -1,3 +1,10 @@
+/* global rule*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -25,9 +32,12 @@ textarea{
   white-space: pre-wrap;
 }
 
+.time-div {
+  margin: 10px auto;
+}
+
 .time-block{
   text-align: center;
-  border-radius: 15px;
 }
 
 .row {
@@ -39,7 +49,8 @@ textarea{
 .hour {
   background-color: #ffffff;
   color: #000000;
-  border-top: 1px dashed #000000;
+  border: 1px solid #000000;
+  border-radius: 15px 0 0 15px;
 }
 
 .past {
