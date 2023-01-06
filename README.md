@@ -1,15 +1,19 @@
 # Work Day Scheduler Starter Code
 
-## purpose
-A website that offers a timed schedule to add text according to current hour. the website color and text also changes acording to time of day vs schedule time.
+## Description
+A website that offers a timed schedule to add tasks according to current hour. The color and text also changes according to time of day.
 
-## Built With
+## How to use
+Simply start typing your hourly tasks and the website will keep your information to use throughout the day.
+
+## Technologies / Frameworks
 * HTML
 * CSS
 * JQuery
+* moment.js
 
 ## website
 https://itzamary.github.io/Work-Day-Scheduler/
 
 ## website image
-![](./assets/images/Work-Day-Scheduler.png)
+![](./assets/images/workDay.png)
